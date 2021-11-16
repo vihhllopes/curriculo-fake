@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+*{
+  font-family: 'Montserrat', sans-serif;
+}
+.flex{
+  display: flex;
+  margin-left:10px ;
+  text-align:justify;
+
+}
+.nome{
+  font-size: 70px;
+  margin-top: 20px;
+  margin-left: 9%;
+  
+}
+.strong{
+  margin-left: 30px;
+}
+#img{
+  margin-left: 10%;
+}
+.p{
+  font-size: 15px;
+  margin-left: 10%;
+  margin-inline-end: 20px;
+}
+#p1{
+  font-size: 20px;
+  margin-left: 10%;
+  margin-inline-end: 20px;
+}
+.Objetivo{
+  margin-top: 20px;
+  font-size: 20px;
+  margin-left: 10%;
+}
+.div{
+  background-image:url(img/fundo.png);
+  background-attachment: fixed;	
+  background-size: 80%;
+  background-repeat:no-repeat;
+  background-color:#Ffff;
+}
+#img2{
+  margin-right: 300px;
+}
+#confirme{
+  margin-left: 33%;
+  font-size: 20px;
+  margin-top: 9px;
+}
+.button{
+  display: block;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 0.20rem;
+    margin-left: 42%;
+    margin-top: 5px;
+}
+    
